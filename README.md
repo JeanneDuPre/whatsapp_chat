@@ -1,4 +1,10 @@
-# whatsapp_chat
+# Whatsapp-Chat
+
+## In the analysis of a WhatsApp chat, I performed the following tasks:
+  1. Downloading the data
+  2. Cleaning the dataset
+  3. Creation of new entities (emoji, text)
+  4. Generation of various graphics (radar chart, bar chart, line chart, combo chart)
 
 ### Wordcloud of least used emoijis
 ![alt text](https://github.com/JeanneDuPre/whatsapp_chat/blob/main/images/Wordcloud_emoji_whatsapp_style.png)
